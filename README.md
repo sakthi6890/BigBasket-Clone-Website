@@ -5,7 +5,8 @@
 
 This project is a clone of the popular online grocery store, Bigbasket. The website allows users to browse and shop for groceries and other daily essentials online. Users can add items to their cart, place orders, and make payments, just like they would on the real Bigbasket platform. This project is designed to be simple, scalable, and user-friendly, offering a great starting point for anyone looking to create an e-commerce platform.
 
-![image](https://github.com/user-attachments/assets/0b9c41b9-cb06-4ee3-b893-6d513e89e096)
+![Screenshot 2025-01-31 213740](https://github.com/user-attachments/assets/7d5c1d7b-5246-4eb8-8f39-7b16ded161e0)
+
 
 
 
